@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_SG_11 - Train
+  m_Shader: {fileID: -6465566751694194690, guid: 85b25dc2dd63731498f10228dfec05bf, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Buildings:
+        m_Texture: {fileID: 2800000, guid: eac7326f4d82aae47af0e86c3d17af17, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BuildingsLights:
+        m_Texture: {fileID: 2800000, guid: 7d1b6c06b343c314fbec4a1e6444738b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CloudsMountainsPosts:
+        m_Texture: {fileID: 2800000, guid: 17fdfecbf428b984f8dfde895c69f483, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_ef114aa50b444b638978962e8b3e9ade_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: e1b7cda17a5048144a6a419e490eda72, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TrainMountainsTrees:
+        m_Texture: {fileID: 2800000, guid: e3016b87f45e45b4d987d8ead5746382, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Buildings_speed: 0.5
+    - _CloudSpeed: 0.2
+    - _HillSpeed: 0.75
+    - _MountainsSpeed: 0.25
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _TreesSpeed: 1
+    m_Colors:
+    - _DaySky: {r: 0.7921858, g: 0.8113207, b: 0.6773763, a: 1}
+    - _LightsColor: {r: 1, g: 1, b: 1, a: 0}
+    - _NightSky: {r: 0.38039213, g: 0.39215687, b: 0.7960785, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &4385952547892907803
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9

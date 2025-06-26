@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RuizEsparzaMiguel_SG_P2 - Guardia
+  m_Shader: {fileID: -6465566751694194690, guid: 5d73e62692e06fc47ba15e2eda392a83, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _NormalText:
+        m_Texture: {fileID: 2800000, guid: 4d98b858f06ff284e9537c65ab8552be, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_04a1b953cdb14ab98223ff97055b19d5_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 6037252c23e94b342a355aa086aa1804, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_30d6da108229473596f8442ce8a45e41_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 6fdcef7f10547b848a0503687ff60137, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _InlineSize: 0.3
+    - _NormalOffset: 0.025
+    - _NormalStrenght: 0.8
+    - _Posterize_Steps: 3
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Rotacion_XY: 0.34
+    - _Rotacion_Z: 0.2
+    m_Colors:
+    - _AmbientColor: {r: 0.9303578, g: 0.95087487, b: 0.9528302, a: 0}
+    - _AmbientOculsionOColor: {r: 0.9528302, g: 0.92136884, b: 0.92136884, a: 0}
+    - _CamisaColorA: {r: 0.90196085, g: 0.90196085, b: 0.86274517, a: 1}
+    - _CamisaColorB: {r: 0.9150943, g: 0.9150943, b: 0.85898006, a: 1}
+    - _ChalecoGorraColorA: {r: 0.19215688, g: 0.28235295, b: 0.37647063, a: 0}
+    - _ChalecoGorraColorB: {r: 0.29436633, g: 0.34136927, b: 0.4245283, a: 0}
+    - _Color_Luz: {r: 1, g: 1, b: 1, a: 0}
+    - _GorraColorA: {r: 0, g: 0, b: 0, a: 0}
+    - _GorraColorB: {r: 0.427451, g: 0.28627452, b: 0.027450982, a: 0}
+    - _InlineColor: {r: 0.03773582, g: 0.01070337, b: 0.00231399, a: 0}
+    - _PantalonColorA: {r: 0.10980393, g: 0.38823533, b: 0.5529412, a: 0}
+    - _PantalonColorB: {r: 0.05660379, g: 0.05660379, b: 0.041918844, a: 0}
+    - _PielColorA: {r: 0.9528302, g: 0.38053283, b: 0.09438412, a: 0}
+    - _PielColorB: {r: 0.9716981, g: 0.9716981, b: 0.9716981, a: 0}
+    - _StrapsColorA: {r: 0.49056602, g: 0.41738605, b: 0.41420433, a: 0}
+    - _StrapsColorB: {r: 1, g: 1, b: 1, a: 0}
+    - _Tiling_And_Offset: {r: 1, g: 1, b: 0, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
+--- !u!114 &5931485435700192474
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
