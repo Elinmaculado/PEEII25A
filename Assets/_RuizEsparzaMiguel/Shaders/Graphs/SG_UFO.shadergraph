@@ -678,6 +678,12 @@
         },
         {
             "m_Id": "faa82497451d4bb9ac33de5168e937c0"
+        },
+        {
+            "m_Id": "c556796d87654ba7ac562641875cef04"
+        },
+        {
+            "m_Id": "421195ee5bdb421da656b86e034f1092"
         }
     ],
     "m_GroupDatas": [
@@ -1514,6 +1520,20 @@
                     "m_Id": "04aaf19e9b044ba1b9a480c1d18e0de4"
                 },
                 "m_SlotId": 2
+            }
+        },
+        {
+            "m_OutputSlot": {
+                "m_Node": {
+                    "m_Id": "421195ee5bdb421da656b86e034f1092"
+                },
+                "m_SlotId": 0
+            },
+            "m_InputSlot": {
+                "m_Node": {
+                    "m_Id": "c556796d87654ba7ac562641875cef04"
+                },
+                "m_SlotId": 1
             }
         },
         {
@@ -2477,7 +2497,7 @@
             },
             "m_InputSlot": {
                 "m_Node": {
-                    "m_Id": "14960e170b8a430ab9e0b0de79fd9a90"
+                    "m_Id": "c556796d87654ba7ac562641875cef04"
                 },
                 "m_SlotId": 0
             }
@@ -3152,6 +3172,20 @@
                     "m_Id": "ca542dcc9eed43918f57e5d21419c71e"
                 },
                 "m_SlotId": 1
+            }
+        },
+        {
+            "m_OutputSlot": {
+                "m_Node": {
+                    "m_Id": "c556796d87654ba7ac562641875cef04"
+                },
+                "m_SlotId": 2
+            },
+            "m_InputSlot": {
+                "m_Node": {
+                    "m_Id": "14960e170b8a430ab9e0b0de79fd9a90"
+                },
+                "m_SlotId": 0
             }
         },
         {
@@ -4034,7 +4068,7 @@
     "m_Title": "Blur a la transparencia",
     "m_Position": {
         "x": -3813.0,
-        "y": 2057.0
+        "y": 2056.999755859375
     }
 }
 
@@ -5071,6 +5105,29 @@
         "e32": 0.0,
         "e33": 1.0
     }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
+    "m_ObjectId": "100169e9f6804af5a1b1a6f5553e0a15",
+    "m_Id": 0,
+    "m_DisplayName": "In",
+    "m_SlotType": 0,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "In",
+    "m_StageCapability": 3,
+    "m_Value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+    },
+    "m_DefaultValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 1.0
+    },
+    "m_Labels": []
 }
 
 {
@@ -6254,8 +6311,8 @@
     "m_ObjectId": "1ea9d85dda7e4220ab36249be3a2b841",
     "m_Title": "Reflexión del cubemap",
     "m_Position": {
-        "x": -3325.999755859375,
-        "y": -259.0001220703125
+        "x": -3326.0,
+        "y": -259.000244140625
     }
 }
 
@@ -8257,8 +8314,8 @@
     "m_ObjectId": "38a9740291a743169dec2802cda71c52",
     "m_Title": "Iluminación",
     "m_Position": {
-        "x": -7519.99951171875,
-        "y": 340.0
+        "x": -7520.0,
+        "y": 339.999755859375
     }
 }
 
@@ -8304,8 +8361,8 @@
     "m_ObjectId": "39026817b0cd4ddea65f5821c23bedeb",
     "m_Title": "Refraction",
     "m_Position": {
-        "x": -5858.99951171875,
-        "y": 2851.0
+        "x": -5859.0,
+        "y": 2850.999755859375
     }
 }
 
@@ -8458,8 +8515,8 @@
     "m_ObjectId": "3a1393ba953d4b0282e9b9bc15b3c7a7",
     "m_Title": "Iluminación",
     "m_Position": {
-        "x": -7743.99951171875,
-        "y": 1269.9998779296875
+        "x": -7744.0,
+        "y": 1270.0
     }
 }
 
@@ -9270,6 +9327,42 @@
         "e31": 0.0,
         "e32": 0.0,
         "e33": 1.0
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
+    "m_ObjectId": "421195ee5bdb421da656b86e034f1092",
+    "m_Group": {
+        "m_Id": "39026817b0cd4ddea65f5821c23bedeb"
+    },
+    "m_Name": "Property",
+    "m_DrawState": {
+        "m_Expanded": true,
+        "m_Position": {
+            "serializedVersion": "2",
+            "x": -5523.00048828125,
+            "y": 3509.00048828125,
+            "width": 211.0,
+            "height": 34.0
+        }
+    },
+    "m_Slots": [
+        {
+            "m_Id": "75ea4c57e982493e801f55e08b2e977c"
+        }
+    ],
+    "synonyms": [],
+    "m_Precision": 0,
+    "m_PreviewExpanded": true,
+    "m_DismissedVersion": 0,
+    "m_PreviewMode": 0,
+    "m_CustomColors": {
+        "m_SerializableColors": []
+    },
+    "m_Property": {
+        "m_Id": "ad7653d3b4a04d95b23f0e74dced6f18"
     }
 }
 
@@ -10717,7 +10810,7 @@
     "m_ObjectId": "5098fb13421245b1a22c9c721a9c249b",
     "m_Title": "Distorsionar las UVs aqui",
     "m_Position": {
-        "x": -3395.999755859375,
+        "x": -3396.0,
         "y": 1761.9998779296875
     }
 }
@@ -11541,8 +11634,8 @@
     "m_ObjectId": "5a95eee961e3421c8ec1fc8324455fa1",
     "m_Title": "Normal Reflection",
     "m_Position": {
-        "x": -9626.9990234375,
-        "y": 1293.9998779296875
+        "x": -9627.0,
+        "y": 1294.0
     }
 }
 
@@ -13926,6 +14019,21 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
+    "m_ObjectId": "75ea4c57e982493e801f55e08b2e977c",
+    "m_Id": 0,
+    "m_DisplayName": "RefractionNormalStrenght",
+    "m_SlotType": 1,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "Out",
+    "m_StageCapability": 3,
+    "m_Value": 0.0,
+    "m_DefaultValue": 0.0,
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
     "m_ObjectId": "764038e4c2374c659edf83b156d6404c",
     "m_Id": 0,
@@ -14592,7 +14700,7 @@
     "m_ObjectId": "7c2742d53aef47189e84c82ac4e9a0d1",
     "m_Title": "Normal Light",
     "m_Position": {
-        "x": -9630.9990234375,
+        "x": -9631.0,
         "y": 335.0
     }
 }
@@ -15953,8 +16061,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -5782.0,
-            "y": 3357.0,
+            "x": -5744.00048828125,
+            "y": 3344.00048828125,
             "width": 208.0,
             "height": 315.0
         }
@@ -16025,8 +16133,8 @@
     "m_ObjectId": "8a3f18756a4b4d4a9f0482c48dc1c64d",
     "m_Title": "Emmisive Texture",
     "m_Position": {
-        "x": -3152.999755859375,
-        "y": -815.0001220703125
+        "x": -3153.000244140625,
+        "y": -815.0
     }
 }
 
@@ -16641,7 +16749,7 @@
     "m_Title": "Agregamos el efecto de la transición",
     "m_Position": {
         "x": -91.0,
-        "y": 770.0
+        "y": 769.999755859375
     }
 }
 
@@ -19229,7 +19337,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 0.5,
+    "m_Value": 1.0,
     "m_FloatType": 1,
     "m_RangeValues": {
         "x": 0.0,
@@ -20387,6 +20495,21 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
+    "m_ObjectId": "b95ace078d0f4bc5b1b34b1edda03243",
+    "m_Id": 1,
+    "m_DisplayName": "Strength",
+    "m_SlotType": 0,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "Strength",
+    "m_StageCapability": 3,
+    "m_Value": 1.0,
+    "m_DefaultValue": 1.0,
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Texture2DInputMaterialSlot",
     "m_ObjectId": "b97e9b80f3e54201a1d84af9c905b388",
     "m_Id": 1,
@@ -20984,7 +21107,7 @@
     "m_ObjectId": "c171c53862ed4fb7930d8168773b5daf",
     "m_Title": "Lerp entre invisible y visible",
     "m_Position": {
-        "x": -529.0,
+        "x": -529.00048828125,
         "y": 1061.0
     }
 }
@@ -21296,6 +21419,47 @@
     },
     "m_Labels": [],
     "m_Space": 2
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.NormalStrengthNode",
+    "m_ObjectId": "c556796d87654ba7ac562641875cef04",
+    "m_Group": {
+        "m_Id": "39026817b0cd4ddea65f5821c23bedeb"
+    },
+    "m_Name": "Normal Strength",
+    "m_DrawState": {
+        "m_Expanded": true,
+        "m_Position": {
+            "serializedVersion": "2",
+            "x": -5279.0,
+            "y": 3357.000244140625,
+            "width": 208.0,
+            "height": 302.0
+        }
+    },
+    "m_Slots": [
+        {
+            "m_Id": "100169e9f6804af5a1b1a6f5553e0a15"
+        },
+        {
+            "m_Id": "b95ace078d0f4bc5b1b34b1edda03243"
+        },
+        {
+            "m_Id": "f58229f7da794fa890cb1b96b3a29942"
+        }
+    ],
+    "synonyms": [
+        "intensity"
+    ],
+    "m_Precision": 0,
+    "m_PreviewExpanded": true,
+    "m_DismissedVersion": 0,
+    "m_PreviewMode": 0,
+    "m_CustomColors": {
+        "m_SerializableColors": []
+    }
 }
 
 {
@@ -21698,7 +21862,7 @@
     "m_ObjectId": "cb1aaf243148434ab6bc95be789bfbdc",
     "m_Title": "Transición con textura",
     "m_Position": {
-        "x": -3593.999755859375,
+        "x": -3594.000244140625,
         "y": 640.0
     }
 }
@@ -22095,7 +22259,7 @@
     "m_ObjectId": "cf5d226068864b53bd44aba7fceaaced",
     "m_Title": "Invisible FresnelLight",
     "m_Position": {
-        "x": -2963.999755859375,
+        "x": -2964.0,
         "y": 2849.999755859375
     }
 }
@@ -25402,6 +25566,29 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.Vector3MaterialSlot",
+    "m_ObjectId": "f58229f7da794fa890cb1b96b3a29942",
+    "m_Id": 2,
+    "m_DisplayName": "Out",
+    "m_SlotType": 1,
+    "m_Hidden": false,
+    "m_ShaderOutputName": "Out",
+    "m_StageCapability": 3,
+    "m_Value": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "m_DefaultValue": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "m_Labels": []
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector4MaterialSlot",
     "m_ObjectId": "f5b51e5f1e51414889e0712bbb2fde8c",
     "m_Id": -789896141,
@@ -25869,8 +26056,8 @@
     "m_ObjectId": "fa2b9b527d67410694cfb9aa7b07ffb5",
     "m_Title": "Posición del objeto en la pantalla",
     "m_Position": {
-        "x": -3812.999755859375,
-        "y": 1838.9998779296875
+        "x": -3813.0,
+        "y": 1839.0
     }
 }
 
@@ -26404,7 +26591,7 @@
     "m_ObjectId": "fdf673100ff14cf1ad302a87dc791fe7",
     "m_Title": "Color detrás del objeto",
     "m_Position": {
-        "x": -2583.999755859375,
+        "x": -2584.000244140625,
         "y": 1841.0
     }
 }

@@ -11,7 +11,8 @@ Material:
   m_Shader: {fileID: -6465566751694194690, guid: 04af0aac841e9824f972854abe2425b2, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
-  m_ValidKeywords: []
+  m_ValidKeywords:
+  - _BLURHD
   m_InvalidKeywords:
   - _USEHD
   m_LightmapFlags: 4
@@ -63,10 +64,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BLURHD: 0
-    - _BlurOffset: 0.073
+    - _BLURHD: 1
+    - _BlurOffset: 0.126
     - _EmmissiveOnInvisible: 1
-    - _FresnelPower: 0
+    - _FresnelPower: 0.517
     - _Lighting_Intensity: 0
     - _Lighting_Normal_Strength: 0
     - _QueueControl: 0
@@ -76,16 +77,16 @@ Material:
     - _Reflection_Intensity: 0.306
     - _Reflection_Normal_Strength: 0
     - _RefractionFresnelFlip: 0
-    - _RefractionFresnelPower: 1
-    - _RefractionIntensity: 0.2
-    - _RefractionNormalMapStrenght: 0.36
+    - _RefractionFresnelPower: 0
+    - _RefractionIntensity: -0.2
+    - _RefractionNormalMapStrenght: 0
     - _RefractionNormalStrenght: 0
-    - _Transition: 0.19
+    - _Transition: 0
     - _TransitionNoiseIntensity: 0.023
     - _TransitionSize: 0.02
     m_Colors:
     - _Emmisive_color: {r: 0.5353885, g: 0.8018868, b: 0.1550819, a: 1}
-    - _FresnelColor: {r: 0.9150943, g: 0.14244394, b: 0.27580398, a: 0}
+    - _FresnelColor: {r: 0.16586253, g: 0.100436084, b: 0.3490566, a: 1}
     - _TransitionNoiseSpeed: {r: 0, g: 0, b: 0, a: 0}
     - _Transition_Color: {r: 0.8867924, g: 0.783492, b: 0.1966002, a: 0}
   m_BuildTextureStacks: []
