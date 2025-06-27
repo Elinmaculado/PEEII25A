@@ -64,25 +64,25 @@ Material:
     m_Ints: []
     m_Floats:
     - _BLURHD: 0
-    - _BlurOffset: 0
+    - _BlurOffset: 0.073
     - _EmmissiveOnInvisible: 1
     - _FresnelPower: 0
     - _Lighting_Intensity: 0
-    - _Lighting_Normal_Strength: 1
+    - _Lighting_Normal_Strength: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Reflection_Blur: 0
-    - _Reflection_Fresnel_Power: 0.33
-    - _Reflection_Intensity: 0.302
-    - _Reflection_Normal_Strength: 0.97
-    - _RefractionFresnelFlip: 1
+    - _Reflection_Fresnel_Power: 0
+    - _Reflection_Intensity: 0.306
+    - _Reflection_Normal_Strength: 0
+    - _RefractionFresnelFlip: 0
     - _RefractionFresnelPower: 1
     - _RefractionIntensity: 0.2
-    - _RefractionNormalMapStrenght: 0
+    - _RefractionNormalMapStrenght: 0.36
     - _RefractionNormalStrenght: 0
-    - _Transition: 0.271
-    - _TransitionNoiseIntensity: 0.047
-    - _TransitionSize: 0.039
+    - _Transition: 0.19
+    - _TransitionNoiseIntensity: 0.023
+    - _TransitionSize: 0.02
     m_Colors:
     - _Emmisive_color: {r: 0.5353885, g: 0.8018868, b: 0.1550819, a: 1}
     - _FresnelColor: {r: 0.9150943, g: 0.14244394, b: 0.27580398, a: 0}
