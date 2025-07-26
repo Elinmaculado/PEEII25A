@@ -60,11 +60,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Metallic: 0.956
-    - _Normal_Strenght: 0.234
+    - _Metallic: 1
+    - _Normal_Strenght: 0.147
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _Roughness: 0.08
+    - _Roughness: 0
     - _Specular_Power: 0.27
     - _Specular_intensity: 0.296
     m_Colors:
