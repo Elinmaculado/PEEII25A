@@ -281,7 +281,7 @@
     "m_Title": "Formula fresnel",
     "m_Position": {
         "x": -842.0,
-        "y": 197.0000457763672
+        "y": 196.99996948242188
     }
 }
 
@@ -918,7 +918,7 @@
     "m_ObjectId": "5c28457d2e8042a5b61c957d72f19cf1",
     "m_Title": "Podrían utilizar normal map",
     "m_Position": {
-        "x": -1220.0,
+        "x": -1219.9998779296875,
         "y": 635.0
     }
 }
@@ -1741,8 +1741,8 @@
     "m_ObjectId": "f5f6cab806b3418caff0b51e28430539",
     "m_Title": "No usar :(",
     "m_Position": {
-        "x": -1513.0,
-        "y": 154.0
+        "x": -1512.9998779296875,
+        "y": 153.99996948242188
     }
 }
 
