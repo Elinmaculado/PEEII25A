@@ -4,115 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="113ccf86-45f8-440c-baf3-9b90886f5fd5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PEEII25A/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PEEII25A/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/Functions.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/Functions/SGF_ColorGradient.shadersubgraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/Functions/SGF_ColorGradient.shadersubgraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/Functions/SGF_LigthParallaxLayer.shadersubgraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/Functions/SGF_LigthParallaxLayer.shadersubgraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/Functions/SGF_ParallaxLayer.shadersubgraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/Functions/SGF_ParallaxLayer.shadersubgraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/Functions/SGF_ScaleUVsFromCenter.shadersubgraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/Functions/SGF_ScaleUVsFromCenter.shadersubgraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/Functions/SGF_TripleLerpJ.shadersubgraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/Functions/SGF_TripleLerpJ.shadersubgraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/Functions/SGF_VectorSelector.shadersubgraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/Functions/SGF_VectorSelector.shadersubgraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/Functions/SGF_Wiggle.shadersubgraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/Functions/SGF_Wiggle.shadersubgraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_00 -.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_00 -.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_01 - Data.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_01 - Data.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_02 - HeigthGradient.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_02 - HeigthGradient.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_03 - Lerp.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_03 - Lerp.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_04 - TexturePanner.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_04 - TexturePanner.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_05 - Glow.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_05 - Glow.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_06 - MatrixRain.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_06 - MatrixRain.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_07 - UV-Setting.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_07 - UV-Setting.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_08 - Texture paner - Parallax.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_08 - Texture paner - Parallax.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_09 - CustomLight - LightDirection.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_09 - CustomLight - LightDirection.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_10 - LigthDirectionPerturbed.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_10 - LigthDirectionPerturbed.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_11 - Lambert.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_11 - Lambert.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_12 - MainLIghtAndShadows.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_12 - MainLIghtAndShadows.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_13 - HalfLamabert.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_13 - HalfLamabert.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_14 - Gradients.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_14 - Gradients.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_15 -  Fresnel.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_15 -  Fresnel.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_16 -  RimLight.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_16 -  RimLight.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_17 - Specular.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_17 - Specular.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_18 - Specular.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_18 - Specular.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_19 - Anisotropic.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_19 - Anisotropic.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_20 - CustomLighting - Anisotropic.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_20 - CustomLighting - Anisotropic.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_21 - Simple.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_21 - Simple.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_22 - Toon.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_22 - Toon.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_23 - VertexOffsetSimple.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_23 - VertexOffsetSimple.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_24 - VertexRotation.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_24 - VertexRotation.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_25 - VertexOffsetOutline.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_25 - VertexOffsetOutline.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_26 - DefaultLit.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_26 - DefaultLit.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_31 - ImageBasedLigthing - MatCap.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_31 - ImageBasedLigthing - MatCap.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_32 - MatCapProcedural.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_32 - MatCapProcedural.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_P - Train.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_P - Train.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_P2T1 - CustomLightning_HaroJuan.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_P2T1 - CustomLightning_HaroJuan.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_P2T2 - ShadowSwap.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_P2T2 - ShadowSwap.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_P2T3 - ToonShaderProcedural - HaroJuan.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_P2T3 - ToonShaderProcedural - HaroJuan.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_P2T4 - PackedTextures - UVChannels - HaroJuan.shadergraph" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Shaders/Graphs/SG_P2T4 - PackedTextures - UVChannels - HaroJuan.shadergraph.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Textures.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Textures/MedievalBricks.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Textures/MedievalBricks/sergun-kuyucu-medieval-blocks-height-to-normal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Textures/MedievalBricks/sergun-kuyucu-medieval-blocks-height-to-normal.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Textures/MedievalBricks/sergun-kuyucu-medieval-blocks-height.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Textures/MedievalBricks/sergun-kuyucu-medieval-blocks-height.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Textures/PackedNormalRG.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Textures/PackedNormalRG.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Textures/PackedTextures.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Textures/PackedTextures.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Textures/Various.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Textures/Various/PackedTexture.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Textures/Various/PackedTexture.jpg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Textures/Various/TextureAtlas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Apuntes/Textures/Various/TextureAtlas.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Scenes/SceneDepth.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Scenes/SceneDepth.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/Functions/SGF_DepthFade.shadersubgraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/Functions/SGF_DepthFade.shadersubgraph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/SG_54 - Triplanar projection.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/SG_54 - Triplanar projection.shadergraph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/SG_57- RealTransparency - SimpleWater.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/SG_57- RealTransparency - SimpleWater.shadergraph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/SG_58 - Position_BehindTransparency.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/SG_58 - Position_BehindTransparency.shadergraph" afterDir="false" />
-    </list>
+    <list default="true" id="113ccf86-45f8-440c-baf3-9b90886f5fd5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,6 +12,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.shadergraph@425e21ee5890/Editor/Data/Util/FunctionRegistry.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -129,19 +24,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Museum",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="D:\Programas\Unity Hub\Versiones\6000.0.40f1\Editor\Unity.exe" />
@@ -205,6 +101,7 @@
       <workItem from="1753278676144" duration="2000" />
       <workItem from="1753278689942" duration="2281000" />
       <workItem from="1753548526282" duration="4000" />
+      <workItem from="1753563110458" duration="30000" />
     </task>
     <servers />
   </component>
@@ -213,6 +110,7 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityProjectDiscoverer">
+    <option name="hasUnityReference" value="true" />
     <option name="unityProject" value="true" />
     <option name="unityProjectFolder" value="true" />
   </component>
