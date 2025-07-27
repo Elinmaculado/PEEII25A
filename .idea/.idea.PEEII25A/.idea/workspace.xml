@@ -7,12 +7,8 @@
     <list default="true" id="113ccf86-45f8-440c-baf3-9b90886f5fd5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PEEII25A/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PEEII25A/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/BK_AlchemistHouse/PackageScene/Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BK_AlchemistHouse/PackageScene/Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/BK_AlchemistHouse/PackageScene/Scene/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BK_AlchemistHouse/PackageScene/Scene/LightingData.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/BK_AlchemistHouse/PackageScene/Scene/ReflectionProbe-2.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BK_AlchemistHouse/PackageScene/Scene/ReflectionProbe-2.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/BK_AlchemistHouse/Scripts/FreeCamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BK_AlchemistHouse/Scripts/FreeCamera.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/Mats/RuizEsparzaMiguel_SG_37 - Reflection Probe 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/Mats/RuizEsparzaMiguel_SG_37 - Reflection Probe 1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/Mats/RuizEsparzaMiguel_SG_39 - ImageBasedLighting - Pseudo PBR 1 (ReflectionProbe) Tarea.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/Mats/RuizEsparzaMiguel_SG_39 - ImageBasedLighting - Pseudo PBR 1 (ReflectionProbe) Tarea.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/SG_37 - Reflection Probe.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/SG_37 - Reflection Probe.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/BK_AlchemistHouse/PackageScene/Scene/ReflectionProbe-1.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BK_AlchemistHouse/PackageScene/Scene/ReflectionProbe-1.exr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Scripts/CameraMover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Scripts/CameraMover.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +18,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.render-pipelines.universal@bd2aa618476e/Runtime/UniversalRenderPipeline.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -30,20 +29,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="D:\Programas\Unity Hub\Versiones\6000.0.40f1\Editor\Unity.exe" />
@@ -108,6 +107,8 @@
       <workItem from="1753278689942" duration="2281000" />
       <workItem from="1753548526282" duration="4000" />
       <workItem from="1753571117462" duration="1174000" />
+      <workItem from="1753634382085" duration="1109000" />
+      <workItem from="1753636675568" duration="961000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-1755897493918805600
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 9
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: RuizEsparzaMiguel_Examen3_MiguelRuizEsparza
+  m_Shader: {fileID: -6465566751694194690, guid: 6d2ecee618548e74ebf89e7db2627c91, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords:
+  - _BLURHD
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Cubemap:
+        m_Texture: {fileID: 8900000, guid: 5679c7a439c5ccb4da78945ca2e74089, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmmisiveTex:
+        m_Texture: {fileID: 2800000, guid: 7f5f8784c1d234847874f04bd9b59ffe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FadeTransitionTex:
+        m_Texture: {fileID: 2800000, guid: 8cf42c8e725448b4f9d76a337be29547, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 6f5c06b285b91184f98a0245fffcb208, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: e73bcde7e5261284f8bb500c1392561a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TransitionTex:
+        m_Texture: {fileID: 2800000, guid: d2872542e61f6e04995b3c784fa00bb1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BLURHD: 1
+    - _BlurOffset: 0.567
+    - _EmmissiveOnInvisible: 1
+    - _FresnelPower: 0.04
+    - _Lighting_Intensity: 1
+    - _Lighting_Normal_Strength: 1
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Reflection_Blur: 1
+    - _Reflection_Fresnel_Power: 1
+    - _Reflection_Intensity: 0.449
+    - _Reflection_Normal_Strength: 1
+    - _RefractionFresnelFlip: 1
+    - _RefractionFresnelPower: 0.9
+    - _RefractionIntensity: 0.2
+    - _RefractionNormalMapStrenght: 0.142
+    - _RefractionNormalStrenght: 0.592
+    - _Transition: 0
+    - _TransitionNoiseIntensity: 0.075
+    - _TransitionSize: 0.025
+    m_Colors:
+    - _Emmisive_color: {r: 0.5353885, g: 0.8018868, b: 0.1550819, a: 1}
+    - _FresnelColor: {r: 0.8962264, g: 0.8159043, b: 0.8159043, a: 0}
+    - _TransitionNoiseSpeed: {r: 1, g: 1, b: 0, a: 0}
+    - _Transition_Color: {r: 0.8867924, g: 0.783492, b: 0.1966002, a: 0}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

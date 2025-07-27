@@ -10,6 +10,9 @@ public class CameraMover : MonoBehaviour
     [Header("Free Look Mode")]
     public float movementSpeed = 5.0f;
     public float rotationSpeed = 10.0f;
+    private float rotationX = 0f;
+    private float rotationY = 0f;
+
 
     [Header("Mode")]
     public bool freeLook = false; // Si es false, usa Lerp; si es true, usa free camera.
@@ -47,11 +50,18 @@ public class CameraMover : MonoBehaviour
     {
         float horizontalAxis = Input.GetAxis("Horizontal") * Time.deltaTime * movementSpeed;
         float verticalAxis = Input.GetAxis("Vertical") * Time.deltaTime * movementSpeed;
-        float lookX = Input.GetAxis("Mouse X");
-        float lookY = Input.GetAxis("Mouse Y");
+        float lookX = Input.GetAxis("Mouse X") * rotationSpeed;
+        float lookY = Input.GetAxis("Mouse Y") * rotationSpeed;
 
+        // Movimiento
         transform.Translate(horizontalAxis, 0, verticalAxis);
-        transform.eulerAngles += new Vector3(-lookY * rotationSpeed, lookX * rotationSpeed, 0);
+
+        // Acumular rotaciones sin límites
+        rotationY += lookX;
+        rotationX -= lookY;
+
+        // Aplicar como Quaternion para evitar problemas de ejes
+        transform.rotation = Quaternion.Euler(rotationX, rotationY, 0);
     }
 
     // --- Cambiar el target ---
