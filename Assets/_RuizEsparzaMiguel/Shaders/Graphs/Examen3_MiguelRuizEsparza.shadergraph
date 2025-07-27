@@ -4285,7 +4285,7 @@
     "m_ObjectId": "01d275629ad143bb8ba6bc03a16a4a34",
     "m_Title": "Blur a la transparencia",
     "m_Position": {
-        "x": -3807.0,
+        "x": -3807.000244140625,
         "y": 1865.0
     }
 }
@@ -5210,8 +5210,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -6695.00048828125,
-            "y": 923.0,
+            "x": -6700.00048828125,
+            "y": 921.0000610351563,
             "width": 216.0,
             "height": 34.0
         }
@@ -6656,8 +6656,8 @@
     "m_ObjectId": "1ea9d85dda7e4220ab36249be3a2b841",
     "m_Title": "Reflexión del cubemap",
     "m_Position": {
-        "x": -3326.0,
-        "y": -259.0
+        "x": -3325.999755859375,
+        "y": -259.0001220703125
     }
 }
 
@@ -7534,10 +7534,10 @@
         "m_Expanded": false,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -6687.00048828125,
-            "y": 658.0,
+            "x": -6692.00048828125,
+            "y": 656.0000610351563,
             "width": 100.0,
-            "height": 92.0001220703125
+            "height": 92.0
         }
     },
     "m_Slots": [
@@ -8112,10 +8112,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -5809.0,
-            "y": 693.0000610351563,
-            "width": 268.99951171875,
-            "height": 95.00006103515625
+            "x": -5814.00048828125,
+            "y": 691.0000610351563,
+            "width": 269.0,
+            "height": 95.0
         }
     },
     "m_Slots": [
@@ -8917,7 +8917,7 @@
     "m_Title": "Refraction",
     "m_Position": {
         "x": -6749.0,
-        "y": 1615.0
+        "y": 1615.0001220703125
     }
 }
 
@@ -10155,10 +10155,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -6247.00048828125,
-            "y": 657.0000610351563,
+            "x": -6252.00048828125,
+            "y": 655.0000610351563,
             "width": 206.0,
-            "height": 131.00006103515626
+            "height": 131.0
         }
     },
     "m_Slots": [
@@ -10554,9 +10554,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -6020.0,
-            "y": 750.0001220703125,
-            "width": 144.99951171875,
+            "x": -6025.00048828125,
+            "y": 748.0000610351563,
+            "width": 145.0,
             "height": 152.99993896484376
         }
     },
@@ -10594,10 +10594,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -6658.00048828125,
-            "y": 798.0000610351563,
+            "x": -6663.00048828125,
+            "y": 796.0000610351563,
             "width": 189.0,
-            "height": 95.00006103515625
+            "height": 95.0
         }
     },
     "m_Slots": [
@@ -10723,7 +10723,7 @@
     "m_ObjectId": "4892763b4e0d49ee9f348a1c4bbd8ff9",
     "m_Title": "Light Color",
     "m_Position": {
-        "x": -3544.0,
+        "x": -3544.000244140625,
         "y": -1187.0
     }
 }
@@ -11437,7 +11437,7 @@
     "m_ObjectId": "5098fb13421245b1a22c9c721a9c249b",
     "m_Title": "Distorsionar las UVs aqui",
     "m_Position": {
-        "x": -3390.0,
+        "x": -3390.000244140625,
         "y": 1645.0
     }
 }
@@ -12256,8 +12256,8 @@
     "m_ObjectId": "5a95eee961e3421c8ec1fc8324455fa1",
     "m_Title": "Normal Reflection",
     "m_Position": {
-        "x": -6720.0,
-        "y": 598.0
+        "x": -6725.00048828125,
+        "y": 596.0000610351563
     }
 }
 
@@ -13559,7 +13559,7 @@
     "m_Title": "Agregamos reflejos",
     "m_Position": {
         "x": -1313.0,
-        "y": -245.0
+        "y": -245.00010681152345
     }
 }
 
@@ -17026,7 +17026,7 @@
     "m_ObjectId": "8a3f18756a4b4d4a9f0482c48dc1c64d",
     "m_Title": "Emmisive Texture",
     "m_Position": {
-        "x": -3153.0,
+        "x": -3152.999755859375,
         "y": -815.0
     }
 }
@@ -17641,7 +17641,7 @@
     "m_ObjectId": "8e9cefb2fd98497e8da9e44c3d321134",
     "m_Title": "Agregamos el efecto de la transición",
     "m_Position": {
-        "x": -582.0,
+        "x": -582.0000610351563,
         "y": 551.0
     }
 }
@@ -18400,7 +18400,7 @@
     "m_Title": "Normal Map",
     "m_Position": {
         "x": -3879.0,
-        "y": -832.0
+        "y": -831.9999389648438
     }
 }
 
@@ -18513,7 +18513,7 @@
     "m_ObjectId": "97a419a1d4d844af8fcecb02758f187f",
     "m_Title": "Agregamos luces de la nave",
     "m_Position": {
-        "x": -1649.0,
+        "x": -1649.0001220703125,
         "y": -815.0
     }
 }
@@ -22361,7 +22361,7 @@
     "m_Title": "Agregar movimiento al noise",
     "m_Position": {
         "x": -4701.0,
-        "y": 1059.0
+        "y": 1059.0001220703125
     }
 }
 
@@ -22414,7 +22414,7 @@
     "m_ObjectId": "c171c53862ed4fb7930d8168773b5daf",
     "m_Title": "Lerp entre invisible y visible",
     "m_Position": {
-        "x": -1013.0,
+        "x": -1013.0000610351563,
         "y": 833.0
     }
 }
@@ -23346,7 +23346,7 @@
     "m_ObjectId": "cb1aaf243148434ab6bc95be789bfbdc",
     "m_Title": "Transición con textura",
     "m_Position": {
-        "x": -3220.0,
+        "x": -3219.999755859375,
         "y": 640.0
     }
 }
@@ -23743,8 +23743,8 @@
     "m_ObjectId": "cf5d226068864b53bd44aba7fceaaced",
     "m_Title": "Invisible FresnelLight",
     "m_Position": {
-        "x": -2958.0,
-        "y": 2658.0
+        "x": -2957.999755859375,
+        "y": 2658.000244140625
     }
 }
 
@@ -24892,7 +24892,7 @@
     "m_Type": "UnityEditor.ShaderGraph.RemapNode",
     "m_ObjectId": "dd4c68f8dd514c0d8d3a1aa309710e66",
     "m_Group": {
-        "m_Id": ""
+        "m_Id": "5a95eee961e3421c8ec1fc8324455fa1"
     },
     "m_Name": "Remap",
     "m_DrawState": {
@@ -24900,7 +24900,7 @@
         "m_Position": {
             "serializedVersion": "2",
             "x": -6474.00048828125,
-            "y": 948.0001220703125,
+            "y": 941.0,
             "width": 186.0,
             "height": 142.0001220703125
         }
@@ -27518,7 +27518,7 @@
     "m_ObjectId": "fa2b9b527d67410694cfb9aa7b07ffb5",
     "m_Title": "Posición del objeto en la pantalla",
     "m_Position": {
-        "x": -3807.0,
+        "x": -3807.000244140625,
         "y": 1647.0
     }
 }
@@ -27920,10 +27920,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -6247.00048828125,
-            "y": 810.0000610351563,
-            "width": 208.00048828125,
-            "height": 301.99993896484377
+            "x": -6252.00048828125,
+            "y": 808.0000610351563,
+            "width": 208.0,
+            "height": 302.00006103515627
         }
     },
     "m_Slots": [
@@ -28063,8 +28063,8 @@
     "m_ObjectId": "fe70556deb4b4b2aa399bf88d55dc211",
     "m_Title": "Agregamos luz",
     "m_Position": {
-        "x": -881.0,
-        "y": 200.0
+        "x": -880.9995727539063,
+        "y": 199.9998779296875
     }
 }
 

@@ -1000,8 +1000,8 @@
     "m_ObjectId": "07141e5e6dc243cf8df719088e086f45",
     "m_Title": "Posición del objeto en la pantalla",
     "m_Position": {
-        "x": -2577.000244140625,
-        "y": 127.00004577636719
+        "x": -2577.0,
+        "y": 127.0000228881836
     }
 }
 
@@ -3054,8 +3054,8 @@
     "m_ObjectId": "72ed0efff4a246c2b476fc5ea1df3b71",
     "m_Title": "Distorsionar las UVs aqui",
     "m_Position": {
-        "x": -2012.0001220703125,
-        "y": 137.0
+        "x": -2012.0,
+        "y": 136.99998474121095
     }
 }
 
@@ -3709,7 +3709,7 @@
     "m_Title": "Color detrás del objeto",
     "m_Position": {
         "x": -1588.0,
-        "y": 62.00003433227539
+        "y": 61.999996185302737
     }
 }
 
@@ -5116,8 +5116,8 @@
     "m_ObjectId": "e55a9fc903814a6ba690561e5ee2b2e6",
     "m_Title": "Modificar color",
     "m_Position": {
-        "x": -1251.0,
-        "y": 130.0
+        "x": -1250.9998779296875,
+        "y": 130.00001525878907
     }
 }
 
