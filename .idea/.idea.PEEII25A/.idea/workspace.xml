@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="113ccf86-45f8-440c-baf3-9b90886f5fd5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PEEII25A/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PEEII25A/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/BK_AlchemistHouse/PackageScene/Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/BK_AlchemistHouse/PackageScene/Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Scenes/ShadowSwap_MiguelRuiz.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Scenes/ShadowSwap_MiguelRuiz.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/ExamSG/RuizEsparzaMiguel_Examen3_MiguelRuizEsparza.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/ExamSG/RuizEsparzaMiguel_Examen3_MiguelRuizEsparza.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/Mats/SG_31 - BolaDeBillar_RuizEsparzaMigue.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/Mats/SG_31 - BolaDeBillar_RuizEsparzaMigue.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/SG_17- ShadowSwap_MiguelRuiz.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_RuizEsparzaMiguel/Shaders/Graphs/SG_17- ShadowSwap_MiguelRuiz.shadergraph" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +106,7 @@
       <workItem from="1753571117462" duration="1174000" />
       <workItem from="1753634382085" duration="1109000" />
       <workItem from="1753636675568" duration="961000" />
-      <workItem from="1753649397093" duration="706000" />
+      <workItem from="1753649397093" duration="1041000" />
     </task>
     <servers />
   </component>
