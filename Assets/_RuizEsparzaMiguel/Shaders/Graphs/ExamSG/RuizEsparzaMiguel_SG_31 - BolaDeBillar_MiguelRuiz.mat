@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SG_31 - BolaDeBillar_RuizEsparzaMigue
-  m_Shader: {fileID: -6465566751694194690, guid: 14046dc08b3340549b7a7d809f695aff, type: 3}
+  m_Name: RuizEsparzaMiguel_SG_31 - BolaDeBillar_MiguelRuiz
+  m_Shader: {fileID: -6465566751694194690, guid: 0a49f44ffb198e548bfad26626fd11c8, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -43,13 +43,12 @@ Material:
     m_Ints: []
     m_Floats:
     - _Index: 1
-    - _Number: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors: []
   m_BuildTextureStacks: []
   m_AllowLocking: 1
---- !u!114 &3465846322984605611
+--- !u!114 &3685960867405493328
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

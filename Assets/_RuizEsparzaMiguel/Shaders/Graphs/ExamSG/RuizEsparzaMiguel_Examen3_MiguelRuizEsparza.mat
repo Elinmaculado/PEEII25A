@@ -93,7 +93,7 @@ Material:
     - _RefractionIntensity: 0.2
     - _RefractionNormalMapStrenght: 0.142
     - _RefractionNormalStrenght: 0.592
-    - _Transition: 0
+    - _Transition: 1
     - _TransitionNoiseIntensity: 0.075
     - _TransitionSize: 0.025
     m_Colors:
